@@ -1,4 +1,4 @@
-# CheckConnection
+# NavDrawerFragments
 
 It is an Android application that you can serve as a template to create a slide menu.
 
